@@ -27,9 +27,11 @@ It simulates a simple banking system, allowing users to create accounts, perform
    ```bash
    git clone https://github.com/your-username/banking-system.git
 2. Navigate to the project folder:
-   ```cd banking-system
+   ```bash
+   cd banking-system
 4. Run the program:
-  ```python bank.py
+  ```bash
+    python bank.py
 
 
 
